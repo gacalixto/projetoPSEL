@@ -1,0 +1,4 @@
+Valor total do Estoque de eletrodomesticos: 315752.67000000004
+Valor total do Estoque de Eletrônicos: 203989.2
+Valor total do Estoque de Acessórios: 0.0
+Valor total do Estoque de Panelas: 4049.64
